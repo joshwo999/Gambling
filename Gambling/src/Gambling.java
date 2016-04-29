@@ -27,6 +27,7 @@ public class Gambling {
 		{
 			System.out.println("You can't do that!");
 			takeBet();
+			System.out.println();
 		}
 		
 	}
